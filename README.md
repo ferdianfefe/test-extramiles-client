@@ -1,5 +1,9 @@
 # Student Management System Client
 
+## Tech Stack
+* Next13
+* Tailwind
+
 ## How To Run
 
 ### 1. Clone this template using one of the three ways:
